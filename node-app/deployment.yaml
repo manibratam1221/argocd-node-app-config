@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: node-app
-          image: manibratam123/examplenode-dev:9
+          image: manibratam123/examplenode-dev:10
           ports:
             - containerPort: 3000
